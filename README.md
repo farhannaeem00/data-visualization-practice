@@ -1,24 +1,18 @@
-# Data Visualization Practice
-
-Learning matplotlib fundamentals with practical examples and seeking community feedback.
-
 ## 📁 Files
-- **`Matplotlib_Basics_Without_Output.ipynb`** - Clean version (no outputs) - **Start here for code review**
-- **`Matplotlib_Basics_With_Output.ipynb`** - With sample outputs for quick browsing
+### Basic Level
+- **`Matplotlib_Basics_Without_Output.ipynb`** - Fundamentals (clean version)
+- **`Matplotlib_Basics_With_Output.ipynb`** - Fundamentals with outputs
 
-## 🎯 Which File to Use?
-- **For code review and learning**: Use `Matplotlib_Basics_Without_Output.ipynb` (clean version)
-- **For quick preview**: Browse `Matplotlib_Basics_With_Output.ipynb`
-- **For hands-on practice**: Clone and run the clean version
+### Advanced Level  
+- **`Matplotlib_Advanced_3D_Without_Output.ipynb`** - 3D plots & advanced techniques (clean)
+- **`Matplotlib_Advanced_3D_With_Output.ipynb`** - 3D plots with sample outputs
 
 ## 📚 What This Covers
-- Basic plotting with matplotlib
-- Customizing charts (colors, labels, titles)
-- Different plot types (line, bar, scatter, histogram)
-- Subplots and figure layouts
-- Plot styling and themes
+### Basic Level
+- Basic plotting, customization, subplots, styling
 
-## 🚀 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/farhannaeem00/data-visualization-practice.git
+### Advanced Level  
+- 3D surface plots, wireframes, scatter3d
+- Contour and filled contour plots
+- Advanced customization techniques
+- Complex subplot arrangements
